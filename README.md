@@ -4,9 +4,8 @@
 ## Project Structure
 
 - **datasets/**
-  - [Mall_Customers.csv](https://www.kaggle.com/datasets/parisrohan/credit-score-classification) (from Kaggle Mall Customer Segmentation Dataset) - Dataset containing...
-
-- **[customers_segmentation_k_means.ipynb](customers_segmentation_k_means.ipynb)** - Jupyter notebook containing code for data exploration, preprocessing, k-means clustering, and evaluation.
+  - [Mall_Customers.csv](https://www.kaggle.com/datasets/parisrohan/credit-score-classification) (from Kaggle Mall Customer Segmentation Dataset) - This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis.
+- **[customers_segmentation_k_means.ipynb](customers_segmentation_k_means.ipynb)** - Jupyter notebook containing code for data exploration, preprocessing, k-means clustering algorithm, and evaluation.
 
 ## Installation Requirements
 
